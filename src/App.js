@@ -19,7 +19,7 @@ const App = () => {
       <div className='card'>
         <h1 className='heading'>{conseil}</h1>
         <button className='button' onClick={fetchConseil}>
-          <span>Encore</span>
+          <span>More!</span>
         </button>
       </div>
     </div>
