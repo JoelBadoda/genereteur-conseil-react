@@ -1,10 +1,11 @@
 Introduction
-This is a code repository for the corresponding video tutorial.
 
-In this video, we will create an interesting react project from scratch - A React Advice App. We're going to use React on the front end and we'll make get requests to Advice Slip JSON API.
+Il s’agit d’un dépôt de code pour le tutoriel vidéo correspondant.
 
-By the end of this video, you will have a strong understanding of basic React workflow as well as how to make get requests in React Apps.
+Dans cette vidéo, nous allons créer un projet de réaction intéressant à partir de zéro - A React Advice App. Nous allons utiliser React au début et nous ferons des demandes à l’API JSON du feuillet de conseils.
 
-Setup:
+À la fin de cette vidéo, vous aurez une compréhension approfondie du flux de travail de base React ainsi que de la façon de faire des demandes dans React Apps.
 
-run npm i && npm start
+Configuration :
+
+lancer npm i && npm start
