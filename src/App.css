@@ -19,7 +19,7 @@
 .card{
     background: linear-gradient(rgba(216, 215, 215, 0.6), rgba(10, 10, 10, 0.6));
     width: 40%;
-    height: 20%;
+    height: 30%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -109,5 +109,20 @@
     .card{
         width: 80%;
         height: 30%;
+    }
+}
+
+@media only screen and (max-width: 300px){
+    .card{
+        width: 80%;
+        height: 50%;
+        word-wrap: break-word;
+    }
+}
+
+@media only screen and (max-width: 200px){
+    .card{
+        width: 90%;
+        height: 90%;
     }
 }
